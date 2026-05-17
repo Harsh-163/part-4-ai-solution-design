@@ -85,7 +85,7 @@ python3 generate_diagram.py
 
 ## 🔗 Data Source
 
-**Dataset provided by:** Masai School — Module 5 Assignment Dataset Pack
+**Dataset provided by:** Masai School — Module 5 Assignment Dataset Pack.
 
 **Google Drive Link:** [https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJIV-wBvUYs?usp=sharing](https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJIV-wBvUYs?usp=sharing)
 
