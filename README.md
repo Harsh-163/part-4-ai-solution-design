@@ -13,7 +13,6 @@ part-4-ai-solution-design/
 │
 ├── README.md                       # This file
 ├── solution_report.md              # Full professional AI solution report (10 sections)
-├── generate_diagram.py             # Python script that draws the architecture diagram
 │
 └── diagrams/
     └── solution_architecture.png   # Block diagram: Ingestion → Preprocess → CNN → HITL → Output
